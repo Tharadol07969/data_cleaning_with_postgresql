@@ -1,0 +1,1 @@
+\copy products FROM 'path/to/foodyum_raw_for_pgadmin4.csv' CSV HEADER;
