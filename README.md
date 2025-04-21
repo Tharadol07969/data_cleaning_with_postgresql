@@ -1,5 +1,8 @@
 # FoodYum Grocery Store Sales: Data Cleaning Project with PostgreSQL
 
+### Project Architecture:
+> ![Project Architecture](screenshots/project_architecture.jpg)
+
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Objectives](#objectives)
